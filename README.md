@@ -24,8 +24,10 @@
   <a href="#-license">License</a>
 </p>
 
+<p>
   <img alt="Layout web" src=".github/preview-web.jpg" width="65%">
   <img alt="Layout mobile" src=".github/preview-mobile.jpg" width="18%">
+</p>
 
 ## 👨🏻‍💻 About the project
 
